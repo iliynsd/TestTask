@@ -4,15 +4,13 @@
     <projectFile>ConsoleApp4/ConsoleApp4.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eedac981-50bb-4ff3-8be1-0f7ef065cb5a" name="Changes" comment="init project">
-      <change afterPath="$PROJECT_DIR$/ConsoleApp4/Application/OneNum.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp4/Application/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp4/Application/TwoNums.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp4/Utils/ConverterUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp4/Utils/InputValidationUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp4/Utils/NumbersUtil.cs" afterDir="false" />
+    <list default="true" id="eedac981-50bb-4ff3-8be1-0f7ef065cb5a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp4/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp4/Application/OneNum.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp4/Application/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/Application/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp4/Application/TwoNums.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp4/ConsoleApp4.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/ConsoleApp4.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp4/Utils/NumbersUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/Utils/NumbersUtil.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +61,9 @@
       <option name="presentableId" value="Default" />
       <updated>1644925217574</updated>
       <workItem from="1644925221256" duration="14937000" />
+      <workItem from="1645002930953" duration="2182000" />
+      <workItem from="1645013249762" duration="345000" />
+      <workItem from="1645015655566" duration="3246000" />
     </task>
     <task id="LOCAL-00001" summary="init gitignore">
       <created>1644925254072</created>
@@ -85,7 +86,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -97,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
